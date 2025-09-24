@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:24.09.2025
+## Register Number:25013033
+## Name:SARATHI M
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,32 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+“We propose a mobile-first AI-powered Crop Advisory App that integrates real-time weather, soil conditions, and crop data to provide localized, multilingual guidance. Farmers can upload images of diseased crops, receive fertilizer suggestions, and hear advisories in their native language using voice output. The app works offline and syncs data when connectivity is restored.”
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+Frontend: Flutter (for Android/iOS support)
+Backend: Node.js with Express
+Database: Firebase / MongoDB
+ML Model: TensorFlow (for pest/disease image detection)
+APIs: OpenWeather API, Google Translate
+Voice: Android TTS (Text-to-Speech)
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+Feasibility: The system is feasible using open-source tools and existing mobile hardware.
+Challenges: Low internet availability in rural areas.
+Solutions: Offline-first design, local caching, SMS alerts as fallback.
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+Increases farm yield by 20–30%
+Reduces unnecessary pesticide use
+Saves money and increases farmer income
+Supports environmental conservation
+Helps non-literate users with voice-based advisory
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+```
+NABARD Report 2022
+FAO ICT Study
+OpenWeather API
+PlantVillage Dazaset
+```
