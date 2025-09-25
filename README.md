@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:24.09.2025
-## Register Number:25006418
-## Name:MOHAMMED HANEEF M
+# Date:25.09.2025
+## Register Number:25015360
+## Name:SOUNDAR MURUGAN
 ## Problem Title
 SIH 25010: AI & IoT-Enabled Smart Greenhouse Monitoring System
 ## Problem Description
@@ -72,6 +72,8 @@ We propose an **IoT + AI Smart Greenhouse Solution** where:
 - Promotes eco-friendly and sustainable practices.
     
 ## Research and References
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/eafab1bf-f244-422a-a0d4-13fe193e1eda" />
+
 - ICAR Pest Management Reports (2022)  
 - FAO Greenhouse Farming Study (2021)  
 - IMD Weather Open Data  
