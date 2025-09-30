@@ -154,6 +154,8 @@ Environmental: Supports organic and sustainable practices by recommending optima
 
 
 ## Research and References
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/f9d70d97-5095-4be0-88e4-684f785699cc" />
+
 1.India Meteorological Department (IMD) – Weather APIs
 
 https://mausam.imd.gov.in
